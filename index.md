@@ -13,10 +13,11 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: About Us
+      description: >-
+        Maritime Frontier aims to inform the maritime industry  on the various
+        initiatives  under the Sea Transport Industry Transformation Map. 
+      button: Access the articles here
       url: /faq/
   - resources:
       title: Media

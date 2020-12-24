@@ -2,8 +2,7 @@
 title: Privacy Policy
 permalink: /privacy/
 ---
-
-1. This privacy policy applies to the Maritime Frontier e-Newsletter and/or marketing materials.
+1. This privacy policy applies to the *Maritime Frontier* e-Newsletter and/or marketing materials.
 2. If you provide us with personally identifiable data (whether directly or on your behalf),
 	
 	a.    We may share necessary data with other Government agencies, so as to serve you in the most efficient and effective way unless such sharing is prohibited by law.

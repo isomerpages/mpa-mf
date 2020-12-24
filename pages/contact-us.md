@@ -7,7 +7,9 @@ contacts:
   - content:
       - phone: ''
       - email: ''
-      - other: Any text here <i>including HTML</i>
+      - other: >-
+          <a href="https://form.gov.sg/#!/5f7bda276bb11a0011dae42b">Click here
+          </a> to complete the form
     title: Subscribe
   - content:
       - phone: ''

@@ -15,7 +15,7 @@ sections:
   - infobar:
       title: About Us
       description: >-
-        Maritime Frontier aims to inform the maritime industry  on the various
+        Maritime Frontier highlights successful case studies  on the various
         initiatives  under the Sea Transport Industry Transformation Map. 
       button: Access the articles here
       url: /faq/

@@ -76,4 +76,4 @@ Write to us at [here](mailto: MaritimeFrontier@mpa.gov.sg)! Write to us too if y
 <br/>
 <div align="right"> 
 <b> Read next article:<br/>
-<a href="/issue1-sep2020/enhancing-competitiveness">Enhancing Competitiveness Through Innovation </a> 
+<a href="/issue1-sep2020/enhancing-competitiveness">Enhancing Competitiveness Through Innovation </a>

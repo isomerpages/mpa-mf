@@ -8,7 +8,8 @@ Two years on, and amid a raging global pandemic and trade tensions, the Industry
 
 > **Kenneth Lim**, MPA’s Chief Technology Officer and Senior Director, Innovation, Technology & Talent Development, shares the refreshed priority and initiatives under the Sea Transport ITM to support and sustain the maritime industry during these challenging times as well as for the future economy.  
 
-![](/images/kenneth.png){:height="50%" width="50%"}
+<img src="/images/kenneth.png" width="10" height="10">
+
 
 2020 has sent the world into an unprecedented, and perhaps the most challenging, period in human history. The recurring mortality of COVID-19 and rising trade tensions among the superpowers have pushed the world into a deep recession. As these events unfold, they are redefining and recreating global trade, economies and everyday life, and
 at times, permanently. As the backbone of international trade, the maritime industry has taken the brunt of the impact with key indicators tumbling across the board during the

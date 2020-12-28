@@ -5,11 +5,9 @@ permalink: /issue1-sep2020/in-search-of-blue-oceans
 ---
 Two years on, and amid a raging global pandemic and trade tensions, the Industry Transformation Map (ITM) for Sea Transport is not only still relevant in transforming the maritime industry but plays an instrumental role in helping companies navigate today’s sea of change and sail towards new harbours of opportunities.
 
+<div class="pull-right"><img src="/images/kenneth.png" /></div>
 
 > **Kenneth Lim**, MPA’s Chief Technology Officer and Senior Director, Innovation, Technology & Talent Development, shares the refreshed priority and initiatives under the Sea Transport ITM to support and sustain the maritime industry during these challenging times as well as for the future economy.  
-
-<img src="/images/kenneth.png" width="10" height="10">
-
 
 2020 has sent the world into an unprecedented, and perhaps the most challenging, period in human history. The recurring mortality of COVID-19 and rising trade tensions among the superpowers have pushed the world into a deep recession. As these events unfold, they are redefining and recreating global trade, economies and everyday life, and
 at times, permanently. As the backbone of international trade, the maritime industry has taken the brunt of the impact with key indicators tumbling across the board during the
@@ -19,6 +17,8 @@ vulnerable, or to ride out the storm by radically transforming the way we work a
 Yet, we have reasons to be hopeful. Even though global trade has drastically contracted and would remain dampened for a while, the maritime industry continues to possess certain resilience as sea logistics remains the most viable channel for fulfilling import demands around the world, even during bad times. It is encouraging that Singapore
 continues to be ranked as the world’s most important shipping hub on the Xinhua-Baltic International Shipping Centre Development (ISCD) Index for the seventh consecutive year. As an independent ranking of the performance of the world’s largest cities that offer port and shipping business services, the ISCD Index’s endorsement of our geographical
 advantage, integrated shipping industry ecosystem and supportive government policies underscores Singapore’s strength, sustainability and standing as a maritime nation.
+
+![](/images/business disrupted.png)
 
 Our original vision of a new world that holds the promises and opportunities of a highly efficient, connected and digitalised maritime future is still relevant today. To reach that destination, however, we will need all hands on deck and a map to navigate uncharted waters as we steer the large vessel of Singapore’s maritime industry towards it.
 
@@ -43,6 +43,8 @@ We are actively encouraging more innovation across the industry through regular 
 With all the technology transformation, the maritime industry will require a workforce
 equipped with advanced knowledge and skillsets to manage new business models, systems and processes. Talent who can marry digital skillsets and strong domain understanding of maritime will be highly sought after. In fact, a 2019 manpower study conducted by MPA showed a significant increase in maritime demand for ICT-related roles requiring new skills like data analytics, artificial intelligence and cybersecurity. At the same time, the maritime industry will continue to need individuals with seafaring experience, commercial savviness and engineering know-how to keep ships sailing and
 ports running.
+
+![](/images/strong demand for specialist ict.png)
 
 The [Skills Framework for Sea Transport](https://www.skillsfuture.sg/skills-framework/sea-transport), which reflects the diverse and meaningful career pathways available in the maritime industry, was recently refreshed to keep in line
 with new technological developments and changing business needs. Individual and companies can use this framework to identify useful skills for personal development as well as career progression. There are also various manpower development programmes offered by Infocomm Media Development Authority (IMDA), Workforce Singapore (WSG), SkillsFuture SG (SSG) and MPA’s [Maritime Cluster Fund – Manpower](https://www.mpa.gov.sg/web/portal/home/maritime-companies/setting-up-in-singapore/developing-manpower/ maritime-cluster-fund-mcf)

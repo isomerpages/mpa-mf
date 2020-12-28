@@ -40,11 +40,11 @@ With all the technology transformation, the maritime industry will require a wor
 equipped with advanced knowledge and skillsets to manage new business models, systems and processes. Talent who can marry digital skillsets and strong domain understanding of maritime will be highly sought after. In fact, a 2019 manpower study conducted by MPA showed a significant increase in maritime demand for ICT-related roles requiring new skills like data analytics, artificial intelligence and cybersecurity. At the same time, the maritime industry will continue to need individuals with seafaring experience, commercial savviness and engineering know-how to keep ships sailing and
 ports running.
 
-The Skills Framework for Sea Transport, which reflects the diverse and meaningful career pathways available in the maritime industry, was recently refreshed to keep in line
-with new technological developments and changing business needs. Individual and companies can use this framework to identify useful skills for personal development as well as career progression. There are also various manpower development programmes offered by Infocomm Media Development Authority (IMDA), Workforce Singapore (WSG), SkillsFuture SG (SSG) and MPA’s Maritime Cluster Fund – Manpower
+The [Skills Framework for Sea Transport](https://www.skillsfuture.sg/skills-framework/sea-transport), which reflects the diverse and meaningful career pathways available in the maritime industry, was recently refreshed to keep in line
+with new technological developments and changing business needs. Individual and companies can use this framework to identify useful skills for personal development as well as career progression. There are also various manpower development programmes offered by Infocomm Media Development Authority (IMDA), Workforce Singapore (WSG), SkillsFuture SG (SSG) and MPA’s [Maritime Cluster Fund – Manpower](https://www.mpa.gov.sg/web/portal/home/maritime-companies/setting-up-in-singapore/developing-manpower/ maritime-cluster-fund-mcf)
 to equip the workforce with valuable skills in this rapidly-evolving industry.
 
-During the pandemic, we are pulling together resources from WSG, SSG, and partner organisations, such as Singapore Maritime Foundation, SSA, Singapore Maritime Officers’ Union, to organise virtual job fairs and career workshops and to offer attachment and training opportunities in the maritime sector. The details of these events and opportunities are posted online on Maritime Singapore Connect, myCareersFuture and MPA website.
+During the pandemic, we are pulling together resources from WSG, SSG, and partner organisations, such as Singapore Maritime Foundation, SSA, Singapore Maritime Officers’ Union, to organise virtual job fairs and career workshops and to offer attachment and training opportunities in the maritime sector. The details of these events and opportunities are posted online on [Maritime Singapore Connect](https://www.maritimesgconnect.com/), [myCareersFuture](https://www.wsg.gov.sg/SGUnitedTraineeships-Trainees.html) and MPA website.
 
 #### INTERNATIONALISATION
 
@@ -52,7 +52,7 @@ MPA and Enterprise Singapore are working closely to expand the overseas footprin
 ways of communications, like leveraging virtual platforms for webinars and video conferences with potential international partners to explore collaboration opportunities.
 
 \
-MPA will continue to support the maritime industry towards the outcomes set out in the Sea Transport ITM. For companies who are keen to explore new opportunities in digitalisation, a good place to start is the Maritime Digitalisation Playbook. It provides a systematic roadmap to help companies develop a focused and effective digital plan to support their digital transformation journey.
+MPA will continue to support the maritime industry towards the outcomes set out in the Sea Transport ITM. For companies who are keen to explore new opportunities in digitalisation, a good place to start is the [Maritime Digitalisation Playbook](https://www.mpa.gov.sg/web/portal/home/maritime-companies/research-development/maritime-digitalisationplaybook). It provides a systematic roadmap to help companies develop a focused and effective digital plan to support their digital transformation journey.
 
 \
 Need more help to get started? Write to us at MPA. Write to us too if you have a good

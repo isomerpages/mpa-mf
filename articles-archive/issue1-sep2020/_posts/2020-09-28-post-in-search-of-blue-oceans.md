@@ -3,15 +3,7 @@ title: IN SEARCH OF BLUE OCEANS
 date: '2020-09-28'
 permalink: /issue1-sep2020/in-search-of-blue-oceans
 ---
-##### **Two years on, and amid a raging global pandemic and trade tensions, the Industry Transformation Map (ITM) for Sea Transport is not only still relevant in transforming the maritime industry but plays an instrumental role in helping companies navigate today’s sea of change and sail towards new harbours of opportunities.**
-
-
-
-| ![](/images/kenneth.png) |**Kenneth Lim**, MPA’s Chief Technology Officer and <br> Senior Director,Innovation, Technology & Talent <br> Development,  shares the refreshed priority and <br> initiatives under the Sea Transport ITM to support <br> and sustain the maritime  industry  during these <br> challenging times as well as for the future economy.  | 
-| -------- | -------- | 
-
-
-
+##### **Two years on, and amid a raging global pandemic and trade tensions, the Industry Transformation Map (ITM) for Sea Transport is not only still relevant in transforming the maritime industry but plays an instrumental role in helping companies navigate today’s sea of change and sail towards new harbours of opportunities.** 
 
 **Kenneth Lim**, MPA’s Chief Technology Officer and Senior Director, Innovation, Technology & Talent Development, shares the refreshed priority and initiatives under the Sea Transport ITM to support and sustain the maritime industry during these challenging times as well as for the future economy. 
 
@@ -80,4 +72,8 @@ Write to us at [here](mailto: MaritimeFrontier@mpa.gov.sg)! Write to us too if y
 5. Centre of Excellence for Autonomous & Remotely Operated Vessels (CEOPS)
 
 \
-**Read next article: [Enhancing Competitiveness Through Innovation](/issue1-sep2020/enhancing-competitiveness)**
+
+<div align="right"> 
+<b> Read next article:<br/>
+<a href="/issue1-sep2020/enhancing-competitiveness">Enhancing Competitiveness Through Innovation </a>
+</div>

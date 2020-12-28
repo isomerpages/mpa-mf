@@ -10,7 +10,13 @@ sections:
       title: Maritime Frontier
       subtitle: Charting our ITM Journey
       background: /images/Picture12.png
-  - resources:
-      title: Publications
-      button: View More
+  - infopic:
+      title: Issue 1 - Sep 2020
+      description: >-
+        The inaugural issue of the Maritime Frontier looks at the integral role
+        the Sea Transport Industry Transformation Map (ITM) plays in
+        charting.....
+      button: Read here
+      url: \permalink
+      alt: Image alt text
 ---

@@ -1,9 +1,9 @@
 logo: /images/MPA_Logo_Pos.png
 links:
   - title: Articles Archive
-    resource_room: true
+      url: /some-page-a/
     sublinks:
-      - title: Subitem 1
-        url: /some-page-a/
+      - title: Issue 1 - Sep 2020
+        url: /issue1-sep2020/in-search-of-blue-oceans
   - title: Contact Us
     url: /contact-us/

@@ -19,7 +19,8 @@ sections:
       button: Click to read
       url: /issue1-sep2020/in-search-of-blue-oceans
       alt: Image alt text
+      subtitle: Issue 01 - Sep 2020
   - resources:
-      title: More Stories...
+      title: More Stories From Latest Issue
       button: Click here for more
 ---

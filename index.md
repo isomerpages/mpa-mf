@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Maritime Frontier
       subtitle: Charting our ITM Journey
-      background: /images/hero-banner.png
+      background: /images/Picture12.png
   - resources:
       title: Publications
       button: View More

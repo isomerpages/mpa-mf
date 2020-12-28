@@ -12,5 +12,5 @@ sections:
       background: /images/Picture12.png
   - resources:
       title: Publications
-      button: Resources Button Name
+      button: C
 ---

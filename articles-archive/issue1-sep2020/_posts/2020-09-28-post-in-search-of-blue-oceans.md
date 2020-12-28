@@ -5,6 +5,14 @@ permalink: /issue1-sep2020/in-search-of-blue-oceans
 ---
 ##### **Two years on, and amid a raging global pandemic and trade tensions, the Industry Transformation Map (ITM) for Sea Transport is not only still relevant in transforming the maritime industry but plays an instrumental role in helping companies navigate today’s sea of change and sail towards new harbours of opportunities.**
 
+
+
+| ![](/images/kenneth.png) |**Kenneth Lim**, MPA’s Chief Technology Officer and <br> Senior Director,Innovation, Technology & Talent <br> Development,  shares the refreshed priority and <br> initiatives under the Sea Transport ITM to support <br> and sustain the maritime  industry  during these <br> challenging times as well as for the future economy.  | 
+| -------- | -------- | 
+
+
+
+
 **Kenneth Lim**, MPA’s Chief Technology Officer and Senior Director, Innovation, Technology & Talent Development, shares the refreshed priority and initiatives under the Sea Transport ITM to support and sustain the maritime industry during these challenging times as well as for the future economy. 
 
 2020 has sent the world into an unprecedented, and perhaps the most challenging, period in human history. The recurring mortality of COVID-19 and rising trade tensions among the superpowers have pushed the world into a deep recession. As these events unfold, they are redefining and recreating global trade, economies and everyday life, and

@@ -1,7 +1,7 @@
 contact_us: /contact-us/
 show_reach: true
-feedback: null
-faq: ''
+feedback: /contact-us/
+faq: /contact-us/
 social_media:
   facebook: 'https://www.facebook.com/MPA'
   twitter: 'https://www.twitter.com/MPA_Singapore'

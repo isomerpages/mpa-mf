@@ -65,7 +65,7 @@ Write to us at [here](mailto: MaritimeFrontier@mpa.gov.sg)! Write to us too if y
 
 \
 **Reference Notes:**
-1. The co-funding support for MCF-PD has been increased from 70% up to 90% from 1 May 2020 to 31 Dec 2020 as part of the MaritimeSG Together Package
+1. The co-funding support for MCF-PD has been increased from 70% up to 90% from 1 May 2020 to 30 Jun 2021 as part of the MaritimeSG Together Package
 2. Centre of Excellence in Modelling and Simulation for Next Generation Ports (C4NGP)
 3. Maritime Energy and Sustainable Development (MESD)
 4. Centre of Excellence in Maritime Safety (CEMS) 

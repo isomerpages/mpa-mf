@@ -52,6 +52,7 @@ During the pandemic, we are pulling together resources from WSG, SSG, and partne
 MPA and Enterprise Singapore are working closely to expand the overseas footprint of local maritime companies and groom them into global champions. During this pandemic period, the internationalisation efforts and momentum are maintained through new
 ways of communications, like leveraging virtual platforms for webinars and video conferences with potential international partners to explore collaboration opportunities.
 
-
-
 MPA will continue to support the maritime industry towards the outcomes set out in the Sea Transport ITM. For companies who are keen to explore new opportunities in digitalisation, a good place to start is the Maritime Digitalisation Playbook11. It provides a systematic roadmap to help companies develop a focused and effective digital plan to support their digital transformation journey.
+
+Need more help to get started? Write to us at MPA. Write to us too if you have a good
+story to tell about your digital transformation and innovation efforts, however big or small, we will also like to hear about them.

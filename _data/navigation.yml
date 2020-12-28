@@ -1,6 +1,6 @@
 logo: /images/MPA_Logo_Pos.png
 links:
   - title: Articles Archive
-     resource_room: true
+    resource_room: true
   - title: Contact Us
     url: /contact-us/

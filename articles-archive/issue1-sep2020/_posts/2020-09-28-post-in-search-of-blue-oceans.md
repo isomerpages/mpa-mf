@@ -4,6 +4,7 @@ date: '2020-09-28'
 permalink: /issue1-sep2020/in-search-of-blue-oceans
 ---
 
+
 Two years on, and amid a raging global pandemic and trade tensions, the Industry Transformation Map (ITM) for Sea Transport is not only still relevant in transforming the maritime industry but plays an instrumental role in helping companies navigate today’s sea of change and sail towards new harbours of opportunities.
 
 

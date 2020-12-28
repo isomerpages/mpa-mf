@@ -71,8 +71,9 @@ Write to us at [here](mailto: MaritimeFrontier@mpa.gov.sg)! Write to us too if y
 4. Centre of Excellence in Maritime Safety (CEMS) 
 5. Centre of Excellence for Autonomous & Remotely Operated Vessels (CEOPS)
 
-\
 
+<br/>
+<br/>
 <div align="right"> 
 <b> Read next article:<br/>
 <a href="/issue1-sep2020/enhancing-competitiveness">Enhancing Competitiveness Through Innovation </a>

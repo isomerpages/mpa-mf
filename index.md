@@ -12,5 +12,5 @@ sections:
       background: /images/Picture12.png
   - resources:
       title: Publications
-      button: C
+      button: Click here for more
 ---

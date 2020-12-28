@@ -25,7 +25,7 @@ The [Sea Transport ITM](https://www.mpa.gov.sg/web/portal/home/maritime-singapor
 ### PRODUCTIVITY
 Companies are receiving more targeted support to help them stay productive and competitive, and deliver higher value-added to customers. These include the [Maritime Cluster Fund – Productivity Grant (MCF-PD)](https://www.mpa.gov.sg/web/portal/home/maritime-companies/setting-up-in-singapore/developing-manpower/maritime-cluster-fund-mcf)<sup>1</sup>, that has supported more than 50 digitalisation projects from 2013. The [Industry Digital Plan](https://www.mpa.gov.sg/web/portal/home/maritime-companies/research-development/industry-digital-plan) (IDP) was also launched last year, making it simple and easy for small and medium enterprises (SMEs) to adopt digital technology.
 
-Tian San Shipping, for instance, is one of the first to utilise the IDP grant for the adoption of the vessel management solution which allows them to have real time access to their craft positions, and also helps in crew deployment. By digitalising its core operations,
+Tian San Shipping, for instance, is [one of the first to utilise the IDP grant](/issue1-sep2020/stepping-up-to-digitalisation) for the adoption of the vessel management solution which allows them to have real time access to their craft positions, and also helps in crew deployment. By digitalising its core operations,
 companies have gained a significant competitive edge that directly translates to more businesses and higher profitability.
 
 ### INNOVATION

@@ -15,5 +15,5 @@ contacts:
       - phone: ''
       - email: MaritimeFrontier@mpa.gov.sg
       - other: ''
-    title: General enquires
+    title: General enquires/ feedback
 ---

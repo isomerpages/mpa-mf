@@ -1,11 +1,4 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/MPA_Logo_Pos.png
 links:
   - title: In This Issue
     url: /articles-archive/issues/test/

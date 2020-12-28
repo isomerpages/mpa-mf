@@ -11,6 +11,6 @@ sections:
       subtitle: Charting our ITM Journey
       background: /images/banner3.png
   - resources:
-      title: Publications
+      title: Latest Publications
       button: Click here for more
 ---

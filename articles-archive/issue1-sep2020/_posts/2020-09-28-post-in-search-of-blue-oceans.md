@@ -61,8 +61,7 @@ MPA will continue to support the maritime industry towards the outcomes set out 
 \
 **Need more help to get started?** 
 
-Write to us at [here!](\contact-us\) Write to us too if you have a good
-story to tell about your digital transformation and innovation efforts, however big or small, we will also like to hear about them.
+Write to us at [here](mailto: MaritimeFrontier@mpa.gov.sg)! Write to us too if you have a good story to tell about your digital transformation and innovation efforts, however big or small, we will also like to hear about them.
 
 \
 **Reference Notes:**

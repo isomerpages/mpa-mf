@@ -5,5 +5,7 @@ permalink: /issue1-sep2020/enhancing-competitiveness
 ---
 
 
-
+| test | test | test |
+| -------- | -------- | -------- |
+| test     | test     | test     |
 

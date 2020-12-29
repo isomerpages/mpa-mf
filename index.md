@@ -13,7 +13,7 @@ sections:
   - infopic:
       title: In Search Of Blue Oceans
       description: >-
-        **Kenneth Lim**, MPA’s Chief Technology Officer and Senior Director,
+        Kenneth Lim, MPA’s Chief Technology Officer and Senior Director,
         Innovation, Technology & Talent Development, shares the refreshed
         priority and initiatives under the Sea Transport ITM to support and
         sustain the maritime industry during these challenging times as well as

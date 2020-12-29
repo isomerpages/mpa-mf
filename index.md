@@ -20,7 +20,7 @@ sections:
       url: /issue1-sep2020/in-search-of-blue-oceans
       alt: Image alt text
       subtitle: Issue 01 - Sep 2020
-      image: /images/front cover_edit2.png
+      image: /images/1st issue cover page.png
   - resources:
       title: More Stories From Latest Issue
       button: Click here for more

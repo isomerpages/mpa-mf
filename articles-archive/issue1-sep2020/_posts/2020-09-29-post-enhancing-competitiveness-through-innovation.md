@@ -10,6 +10,8 @@ For PSA, the leading global port group behind the world’s busiest transhipment
 Designated to operate Singapore’s next generation port at Tuas, which will be the world’s largest fully automated container terminal in a single site with a total handling capacity of up to 65 million twenty-foot equivalents units (TEUs) annually, PSA has embarked on
 many innovation projects to develop automation and intelligent control systems to become more effective and efficient.
 
+![](/images/PSAInfographics.png)
+
 One such innovation is the automation of quay cranes for safe and efficient container operations. Instead of being confined to a cabin 17 storeys high, crane operators would be able to control the automated quay cranes (aQCs) from an off-site office. Operating the aQCs via integrated consoles, operators would be able to handle at least two cranes each, with potential upside in productivity as the technology matures.
 
 Complementing the aQC project is the trial of two Autonomous Prime Movers (APMs)

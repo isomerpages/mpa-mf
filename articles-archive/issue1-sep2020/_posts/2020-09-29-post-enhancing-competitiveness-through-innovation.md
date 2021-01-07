@@ -25,12 +25,11 @@ Beside automation projects to improve port efficiency, PSA was able to venture i
 
 Mr Ong Kim Pong, Regional CEO Southeast Asia, PSA International, said that the support schemes under the Sea Transport ITM, such as the MPA [Maritime Innovation and Technology (MINT) Fund](https://www.mpa.gov.sg/web/portal/home/maritime-companies/research-development/Funding-Schemes/mint-fund), have provided substantial assistance to drive PSA forward in its digital transformation and innovation journey: “These initiatives have helped to accelerate technology adoption, encourage product and solution development, and allowed us to adopt leading-edge technologies from non-maritime industries for use within the port environment. These developments are instrumental in honing PSA’s competitive edge as a leading global port operator, capable of providing port services and innovative cargo solutions that are smarter, safer, more efficient and sustainable.”
 
-![](/images/OngKimPong.png)
-
 In fact, the availability of funding and R&D resources has enabled PSA to accelerate its digital transformation vision. Mr Ong said that it is important to gain a first-mover advantage and a competitive edge through the continuous innovation of port services and solutions, and offering best-in-class services to customers. Efforts include leveraging data-driven insights for informed decision-making and to improve business processes.
 
 “Along with keeping productivity and efficiency high, PSA is also investing in and encouraging staff to upskill and reskill in preparation for a fast-changing digital future through job redesigning and cross-deployment opportunities. Employees are our most valuable asset. Building a resilient workforce is critical to overcome future challenges and will contribute to a stronger Singapore core. R&D collaborations with our valued maritime partners are helping to strengthen and align such efforts, creating long-term benefi ts for Singapore,” Mr Ong added.
 
+![](/images/OngKimPong.png)
 
 <br/>
 <br/>

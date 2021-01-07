@@ -20,9 +20,9 @@ the stage for PSA to apply and retrofit autonomous technologies onto its existin
 
 PSA has also partnered with the [Singapore Maritime Institute (SMI)](https://www.maritimeinstitute.sg/default.aspx) to leverage the capabilities of local research institutions to deepen maritime R&D capabilities. This led to the launch of an R&D Grant Call last year to develop novel systems and concepts for the automation of wharf-side coning and vessel-side lashing for container terminal operations. Automating such activities is a complex challenge, given the wide range of
 lashing equipment and container fi ttings in the market and the highly unstructured
-environment onboard the vessel. If successfully developed, this innovation could signifi cantly improve the effi ciency of such operations and enable a safer working environment.
+environment onboard the vessel. If successfully developed, this innovation could significantly improve the efficiency of such operations and enable a safer working environment.
 
-A collaboration with the [Centre of Excellence in Modelling and Simulation for Next Generation Ports (C4NGP)](https://www.eng.nus.edu.sg/c4ngp/) has enabled PSA to run simulation tests with different scenarios to identify the optimal confi guration of placing transponders for the effective localisation of the Automated Guided Vehicles (AGV). This has allowed PSA to shorten the time and effort required for actual deployment vis-à- vis carrying out validations via physical trials.
+A collaboration with the [Centre of Excellence in Modelling and Simulation for Next Generation Ports (C4NGP)](https://www.eng.nus.edu.sg/c4ngp/) has enabled PSA to run simulation tests with different scenarios to identify the optimal configuration of placing transponders for the effective localisation of the Automated Guided Vehicles (AGV). This has allowed PSA to shorten the time and effort required for actual deployment vis-à- vis carrying out validations via physical trials.
 
 Beside automation projects to improve port efficiency, PSA was able to venture into new business adjacencies – thanks to the establishment of the world’s first maritime-focused Additive Manufacturing (AM) Prototyping Facility at Pasir Panjang Terminal. Equipped with state-of-the-art 3D printing technologies, the facility will allow AM components
 including large metal parts for port equipment to be produced on demand to optimise inventory holding. This will enable PSA to expand its competencies to serve the wider maritime industry, and improve its business resilience.
@@ -31,8 +31,8 @@ including large metal parts for port equipment to be produced on demand to optim
 
 
 
-| Mr Ong Kim Pong, Regional CEO Southeast Asia, PSA International, said that the support schemes under the Sea Transport ITM, such as the MPA [Maritime Innovation and Technology (MINT) Fund](https://www.mpa.gov.sg/web/portal/home/maritime-companies/research-development/Funding-Schemes/mint-fund), have provided substantial assistance to drive PSA forward in its digital transformation and innovation journey: “These initiatives have helped to accelerate technology adoption, encourage product and solution development, and allowed us to adopt leading-edge technologies from non-maritime industries for use within the port environment. These developments are instrumental in honing PSA’s competitive edge as a leading global port operator, capable of providing port services and innovative cargo solutions that are smarter, safer, more efficient and sustainable.” |  | Column 3 |
-| -------- | -------- | -------- |
+| Mr Ong Kim Pong, Regional CEO Southeast Asia, PSA International, said that the support schemes under the Sea Transport ITM, such as the MPA [Maritime Innovation and Technology (MINT) Fund](https://www.mpa.gov.sg/web/portal/home/maritime-companies/research-development/Funding-Schemes/mint-fund), have provided substantial assistance to drive PSA forward in its digital transformation and innovation journey: “These initiatives have helped to accelerate technology adoption, encourage product and solution development, and allowed us to adopt leading-edge technologies from non-maritime industries for use within the port environment. These developments are instrumental in honing PSA’s competitive edge as a leading global port operator, capable of providing port services and innovative cargo solutions that are smarter, safer, more efficient and sustainable.” | ![](/images/OngKimPong.png) |
+| -------- | -------- |
 
 
 

@@ -37,16 +37,6 @@ and will contribute to a stronger Singapore core. R&D collaborations with our va
 
 <br/>
 <br/>
-
-
-
-| Column 1 | <div align="right"> 
-<b> Read next article:<br/>
-<a href="/issue1-sep2020/stepping-up-to-digitalisation">Stepping Up To Digitalisation </a> | 
-| -------- | -------- | 
-
-
-
 <div align="right"> 
 <b> Read next article:<br/>
 <a href="/issue1-sep2020/stepping-up-to-digitalisation">Stepping Up To Digitalisation </a>

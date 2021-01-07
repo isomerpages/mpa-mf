@@ -23,9 +23,9 @@ A collaboration with the [Centre of Excellence in Modelling and Simulation for N
 
 Beside automation projects to improve port efficiency, PSA was able to venture into new business adjacencies – thanks to the establishment of the world’s first maritime-focused Additive Manufacturing (AM) Prototyping Facility at Pasir Panjang Terminal. Equipped with state-of-the-art 3D printing technologies, the facility will allow AM components including large metal parts for port equipment to be produced on demand to optimise inventory holding. This will enable PSA to expand its competencies to serve the wider maritime industry, and improve its business resilience.
 
-![](/images/OngKimPong.png)
-
 Mr Ong Kim Pong, Regional CEO Southeast Asia, PSA International, said that the support schemes under the Sea Transport ITM, such as the MPA [Maritime Innovation and Technology (MINT) Fund](https://www.mpa.gov.sg/web/portal/home/maritime-companies/research-development/Funding-Schemes/mint-fund), have provided substantial assistance to drive PSA forward in its digital transformation and innovation journey: “These initiatives have helped to accelerate technology adoption, encourage product and solution development, and allowed us to adopt leading-edge technologies from non-maritime industries for use within the port environment. These developments are instrumental in honing PSA’s competitive edge as a leading global port operator, capable of providing port services and innovative cargo solutions that are smarter, safer, more efficient and sustainable.”
+
+![](/images/OngKimPong.png)
 
 In fact, the availability of funding and R&D resources has enabled PSA to accelerate its digital transformation vision. Mr Ong said that it is important to gain a first-mover advantage and a competitive edge through the continuous innovation of port services and solutions, and offering best-in-class services to customers. Efforts include leveraging data-driven insights for informed decision-making and to improve business processes.
 

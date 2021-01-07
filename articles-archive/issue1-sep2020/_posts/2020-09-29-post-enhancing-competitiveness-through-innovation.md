@@ -3,6 +3,8 @@ title: Enhancing Competitiveness Through Innovation
 date: '2020-09-29'
 permalink: /issue1-sep2020/enhancing-competitiveness
 ---
+![](/images/PSA_PP_Panorama1.jpg)
+
 #### **Interested to chart your future through digitalisation and innovation? Learn from industry leaders like PSA, who have benefitted from support schemes under the Sea Transport Industry Transformation Map.**
 
 For PSA, the leading global port group behind the world’s busiest transhipment hub, success and innovation are closely intertwined. Constantly at the forefronts of ideation and collaborative research, PSA is seeking to strengthen its market position as well as come up with innovative breakthroughs for port operations.
@@ -10,13 +12,13 @@ For PSA, the leading global port group behind the world’s busiest transhipment
 Designated to operate Singapore’s next generation port at Tuas, which will be the world’s largest fully automated container terminal in a single site with a total handling capacity of up to 65 million twenty-foot equivalents units (TEUs) annually, PSA has embarked on
 many innovation projects to develop automation and intelligent control systems to become more effective and efficient.
 
-![](/images/PSAInfographics.png)
-
 One such innovation is the automation of quay cranes for safe and efficient container operations. Instead of being confined to a cabin 17 storeys high, crane operators would be able to control the automated quay cranes (aQCs) from an off-site office. Operating the aQCs via integrated consoles, operators would be able to handle at least two cranes each, with potential upside in productivity as the technology matures.
 
 Complementing the aQC project is the trial of two Autonomous Prime Movers (APMs)
 for transporting containers within the yard. The ongoing trial of these APMs will set
 the stage for PSA to apply and retrofit autonomous technologies onto its existing PM fleet for mixed-mode operations (i.e. driverless and manual driven modes) in the port’s dense traffic environment.
+
+![](/images/PSAInfographics.png)
 
 PSA has also partnered with the [Singapore Maritime Institute (SMI)](https://www.maritimeinstitute.sg/default.aspx) to leverage the capabilities of local research institutions to deepen maritime R&D capabilities. This led to the launch of an R&D Grant Call last year to develop novel systems and concepts for the automation of wharf-side coning and vessel-side lashing for container terminal operations. Automating such activities is a complex challenge, given the wide range of
 lashing equipment and container fi ttings in the market and the highly unstructured

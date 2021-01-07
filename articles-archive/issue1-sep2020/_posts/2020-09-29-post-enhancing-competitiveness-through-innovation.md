@@ -3,7 +3,7 @@ title: Enhancing Competitiveness Through Innovation
 date: '2020-09-29'
 permalink: /issue1-sep2020/enhancing-competitiveness
 ---
-#### Interested to chart your future through digitalisation and innovation? Learn from industry leaders like PSA, who have benefi tted from support schemes under the Sea Transport Industry Transformation Map.
+#### **Interested to chart your future through digitalisation and innovation? Learn from industry leaders like PSA, who have benefi tted from support schemes under the Sea Transport Industry Transformation Map.**
 
 For PSA, the leading global port group behind the world’s busiest transhipment hub, success and innovation are closely intertwined. Constantly at the forefronts of ideation and collaborative research, PSA is seeking to strengthen its market position as well as come up with innovative breakthroughs for port operations.
 

@@ -25,5 +25,5 @@ sections:
       image: /images/1st issue cover page.png
   - resources:
       title: More Stories From Latest Issue
-      button: Click here for more
+      button: Click here for past issues
 ---

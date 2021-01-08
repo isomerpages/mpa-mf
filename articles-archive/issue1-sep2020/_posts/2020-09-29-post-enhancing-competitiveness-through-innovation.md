@@ -37,7 +37,7 @@ In fact, the availability of funding and R&D resources has enabled PSA to accele
 
 <table style="width:100%">
   <tr>
-    <th>Read previous article </th>
+    <th>Read previous article <br> <a href="/issue1-sep2020/in-search-of-blue-oceans">In Search Of Blue Ocean </a></th>
     <th colspan="2"><div align="right"> Read next article <br> <a href="/issue1-sep2020/stepping-up-to-digitalisation">Stepping Up To Digitalisation </a></th>
   </tr>
 </table>

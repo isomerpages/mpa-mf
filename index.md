@@ -35,17 +35,19 @@ sections:
       subtitle: Issue 01 - Sep 2020
       image: /images/issue1-psa-cover.png
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
+      title: Stepping Up To Digitalisation
+      subtitle: Issue 01 - Sep 2020
       description: Infopic description
-      button: Button Text
+      button: Click to read
+      url: /issue1-sep2020/stepping-up-to-digitalisation
       alt: Image alt text
       image: /images/issue1-tiansancover.png
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
+      title: Setting Sail For The Maritime Industry
+      subtitle: Issue 01 - Sep 2020
       description: Infopic description
-      button: Button Text
+      button: Click to read
+      url: /issue1-sep2020/setting-sail
       alt: Image alt text
       image: /images/issue1-sgutcover.png
   - infobar:

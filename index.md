@@ -24,10 +24,9 @@ sections:
       subtitle: Issue 01 - Sep 2020
       image: /images/1st issue cover page.png
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Enhancing Competitiveness Through Innovation
+      description: Interested to chart your future through digitalisation and innovation? Learn from industry leaders like PSA, who have benefitted from support schemes under the Sea Transport Industry Transformation Map.
+      button: Click to read
       alt: Image alt text
   - infopic:
       title: Infopic Title

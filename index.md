@@ -23,7 +23,26 @@ sections:
       alt: Image alt text
       subtitle: Issue 01 - Sep 2020
       image: /images/1st issue cover page.png
-  - resources:
-      title: More Stories From Latest Issue
-      button: Click here for past issues
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infobar:
+      title: Past issues
+      button: Click here to access
+      url: /articles-archive/
 ---

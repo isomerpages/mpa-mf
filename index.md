@@ -27,7 +27,10 @@ sections:
       title: Enhancing Competitiveness Through Innovation
       description: Interested to chart your future through digitalisation and innovation? Learn from industry leaders like PSA, who have benefitted from support schemes under the Sea Transport Industry Transformation Map.
       button: Click to read
+      url: /issue1-sep2020/enhancing-competitiveness
       alt: Image alt text
+      subtitle: Issue 01 - Sep 2020
+      image: 
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle

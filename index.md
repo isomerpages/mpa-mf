@@ -30,7 +30,7 @@ sections:
       url: /issue1-sep2020/enhancing-competitiveness
       alt: Image alt text
       subtitle: Issue 01 - Sep 2020
-      image: /images/PSA_PP_Panorama1.jpg
+      image: /images/issue1-psa-cover.png
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle

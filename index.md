@@ -42,7 +42,7 @@ sections:
       button: Button Text
       alt: Image alt text
   - infobar:
-      title: Past issues
+      title: Past Issues / Articles Archive
       button: Click here to access
       url: /articles-archive/
 ---

@@ -22,7 +22,7 @@ sections:
       url: /issue1-sep2020/in-search-of-blue-oceans
       alt: Image alt text
       subtitle: Issue 01 - Sep 2020
-      image: /images/1st issue cover page.png
+      image: /images/issue1-coverpage.png
   - infopic:
       title: Enhancing Competitiveness Through Innovation
       description: >-
